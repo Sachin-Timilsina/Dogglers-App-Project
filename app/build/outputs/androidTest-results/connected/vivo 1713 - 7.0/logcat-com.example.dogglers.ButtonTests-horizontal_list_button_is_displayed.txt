@@ -1,0 +1,747 @@
+09-27 11:35:34.831 14564 14591 I TestRunner: started: horizontal_list_button_is_displayed(com.example.dogglers.ButtonTests)
+09-27 11:35:34.838 14564 14591 W SettingsInterface: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+09-27 11:35:34.839   315   315 I DisplayDevice: [Built-in Screen (type:0)] fps:60.707539,dur:1004.82,max:20.03,min:14.76
+09-27 11:35:34.840   315   315 I SurfaceFlinger: FPS: 60
+09-27 11:35:34.841  1443  1443 I StatusBarColorController: SystemUI|notifyStatusBarColorInfo:  iconColor = -1, bgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+09-27 11:35:34.842  1443  1443 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconColor= -1
+09-27 11:35:34.843  1443  1443 I StatusBarColorController: SystemUI|notifyStatusBarColorInfo:  iconColor = -1, bgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+09-27 11:35:34.844  1443  1443 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconColor= -1
+09-27 11:35:34.849  1576  2492 I SLService1: ActivityController mIsAndroidN_VivoMultiWindow = true, mIsMultiWindowOn = false
+09-27 11:35:34.849  1576  2492 I SLService1: [Monitor]1--------[] t [com.example.dogglers] f []
+09-27 11:35:34.849  1576  2492 I SLService1: HAHA1 >>>> true <<<<
+09-27 11:35:34.850  1576  1588 D SLService: optionsFromCallbacks = null
+09-27 11:35:34.855   315   315 I BufferQueueConsumer: [com.example.dogglers/com.example.dogglers.VerticalListActivity](this:0x7644285000,id:3294,api:1,p:-1,c:-1) disconnect(C)
+09-27 11:35:34.855   315   315 I BufferQueue: [com.example.dogglers/com.example.dogglers.VerticalListActivity](this:0x7644285000,id:3294,api:1,p:-1,c:-1) ~BufferQueueCore
+09-27 11:35:34.856  1078  1182 D PhoneWindow: DEBUG_SYSTEMUI:origin statusbar style
+09-27 11:35:34.856   315   315 D GraphicBuffer: free, handle(0x76442afdc0) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:34.856  1078  1182 D PhoneWindow: DEBUG_SYSTEMUI:IconColor=1
+09-27 11:35:34.856  1078  1182 D PhoneWindow: DEBUG_SYSTEMUI:StatusBarColor final set ff000000
+09-27 11:35:34.859  1443  1443 I StatusBarColorController: SystemUI|notifyStatusBarColorInfo:  iconColor = -1, bgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+09-27 11:35:34.859  1443  1443 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconColor= -1
+09-27 11:35:34.862  1078  1182 D WindowClient: Add to mViews: DecorView@6911cae[dogglers], this = android.view.WindowManagerGlobal@b7c1b19
+09-27 11:35:34.862  1078  1182 D ViewRootImpl[dogglers]: hardware acceleration is disabled, fakeHwAccelerated = true, HardwareRenderer.sRendererDisabled = false, forceHwAccelerated = false, HardwareRenderer.sSystemRendererDisabled = false, this = ViewRoot{35655ba Starting com.example.dogglers,ident = 157}
+09-27 11:35:34.864 28697 28697 D Launcher: onPause -- mState = WORKSPACE
+09-27 11:35:34.864 28697 28697 D VivoDreamClockTimeLayout: onInactive
+09-27 11:35:34.866   315   315 I BufferQueue: [unnamed-315-3296](this:0x7644285000,id:3296,api:0,p:-1,c:-1) BufferQueue core=(315:/system/bin/surfaceflinger)
+09-27 11:35:34.866   315   315 I BufferQueueConsumer: [unnamed-315-3296](this:0x7644285000,id:3296,api:0,p:-1,c:315) connect(C): consumer=(315:/system/bin/surfaceflinger) controlledByApp=false
+09-27 11:35:34.866   315   315 I BufferQueueConsumer: [unnamed-315-2649](this:0x7644285000,id:3296,api:0,p:-1,c:315) setConsumerName: unnamed-315-2649
+09-27 11:35:34.866   315   315 I BufferQueueConsumer: [Starting com.example.dogglers](this:0x7644285000,id:3296,api:0,p:-1,c:315) setConsumerName: Starting com.example.dogglers
+09-27 11:35:34.866   315   315 I BufferQueueProducer: [](this:0x7644285000,id:3296,api:0,p:-1,c:315) setMaxDequeuedBufferCount: maxDequeuedBuffers = 2
+09-27 11:35:34.866   315   315 I BufferQueueConsumer: [Starting com.example.dogglers](this:0x7644285000,id:3296,api:0,p:-1,c:315) setDefaultBufferSize: width=1 height=1
+09-27 11:35:34.868  1443  1443 I StatusBarColorController: SystemUI|notifyStatusBarColorInfo:  iconColor = -1, bgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+09-27 11:35:34.868  1443  1443 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconColor= -1
+09-27 11:35:34.871   315   315 I BufferQueueConsumer: [Starting com.example.dogglers](this:0x7644285000,id:3296,api:0,p:-1,c:315) setDefaultBufferSize: width=720 height=1280
+09-27 11:35:34.874  1443  1443 I StatusBarColorController: SystemUI|notifyStatusBarColorInfo:  iconColor = -1, bgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+09-27 11:35:34.874  1443  1443 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconColor= -1
+09-27 11:35:34.876  1078  1255 D PerfServiceWrapper: [PerfServiceWrapper] appBoostEnable
+09-27 11:35:34.876  1078  1255 D PerfService: [PerfService] appBoostEnable: com.example.dogglers
+09-27 11:35:34.876  1078  1255 D PerfServiceManager: [PerfService] appBoostEnable com.example.dogglers
+09-27 11:35:34.876  1078  1182 D Surface : Surface::connect(this=0x77feec2400,api=2)
+09-27 11:35:34.877   315   333 I BufferQueueProducer: [Starting com.example.dogglers](this:0x7644285000,id:3296,api:2,p:1078,c:315) connect(P): api=2 producer=(1078:system_server) producerControlledByApp=false
+09-27 11:35:34.877   315  2474 I BufferQueueProducer: [Starting com.example.dogglers](this:0x7644285000,id:3296,api:2,p:1078,c:315) new GraphicBuffer needed
+09-27 11:35:34.878  1078  1214 D Sensors : flush handle =0
+09-27 11:35:34.878  1078  1214 D Sensors : handleToDriver handle(0)
+09-27 11:35:34.878  1078  1214 D Accel   : handle=0
+09-27 11:35:34.878  1078  1214 E Sensors : go to batchsensor(0)
+09-27 11:35:34.878  1078  1214 D BATCH   : BatchSensor::flush, handle = 0
+09-27 11:35:34.878  1078  1210 D BATCH   : metadata.sensor =0
+09-27 11:35:34.878  1078  1210 D BATCH   : BatchSensor::readEvents, handle = 0
+09-27 11:35:34.879   315  2474 D GraphicBuffer: alloc, handle(0x764c224900) (w:720 h:1280 s:720 f:0x1 u:0x000933) err(0)
+09-27 11:35:34.880  1078  1182 D GraphicBuffer: register, handle(0x77fef92140) (w:720 h:1280 s:720 f:0x1 u:0x000933)
+09-27 11:35:34.888  1078  1303 I libPerfService: [perfNotifyAppState] foreground:com.example.dogglers, pid:14564
+09-27 11:35:34.888  1078  1303 I libPerfService: [switchSportsMode] enable:0
+09-27 11:35:34.889   315   315 D MALI    : eglCreateImageKHR:513: [Crop] 0 0 0 0  img[720 1280]
+09-27 11:35:34.897  1443  1443 I StatusBarColorController: SystemUI|notifyStatusBarColorInfo:  iconColor = 1, bgColor = ff000000, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= false, isKeyguardShowing= false
+09-27 11:35:34.897  1443  1443 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconColor= 1
+09-27 11:35:34.899 28697 28697 D Launcher: onWindowFocusChanged ,  hasFocus = false
+09-27 11:35:34.902 14912 19989 I _V_SecureService2: onForegroundActivitiesChanged() pid = 14564, uid = 10471, foregroundActivities = true
+09-27 11:35:34.902  1078  1158 D VivoAppMonitor: onForegroundActivitiesChanged: pid=14564, uid=10471, foregroundActivities=true
+09-27 11:35:34.902  1078  1158 D VivoAppMonitor: mForgroundAppName=com.example.dogglers, mLastForgroundAppName = com.bbk.launcher2
+09-27 11:35:34.903  1078  1158 D touchscreenjni: chenpeng JNI called
+09-27 11:35:34.903  1078  1158 E touchscreen: Open /sys/touchscreen/app_name failed
+09-27 11:35:34.904  1576  3491 I SLService2: HAHA2 pid = 14564, uid = 10471, f = true
+09-27 11:35:34.904 14912 14990 I _V_SecureService3: runningNetworkLimitReminder ConnectivityManager not null， uid = 10471
+09-27 11:35:34.905  1576  1590 I ProxCoverNoticeService: isHomeLauncher = false
+09-27 11:35:34.905  4414  4644 I _V_UsageAppManager: dealAppInfoList.getPid()=14564,dealAppInfoList.getUid()=10471,dealAppInfoList.getPkgName()=com.example.dogglers
+09-27 11:35:34.905  4414  4644 I _V_UsageAppManager: dealAppInfoList_mForgroundInfo_pid=14564,mForgroundInfo_pkgName=com.example.dogglers,mForgroundInfo_uid=10471,mBackgroundInfo_pid=28697,mBackgroundInfo_pkgName=com.bbk.launcher2,mBackgroundInfo_uid=10039
+09-27 11:35:34.905  1509  4685 E _V_AppStatisticManager: addLruPkg pkgName = com.example.dogglers
+09-27 11:35:34.906 14912 14990 I _V_SecureService3: runningNetworkLimitReminder There is no active network info!
+09-27 11:35:34.906  4414  4644 I _V_UsageAppManager: getversionCode=1
+09-27 11:35:34.906  4414  4644 I _V_UsageAppManager: getVersionName_name=1.0
+09-27 11:35:34.907  4585  4889 I FloatWindowManagerService:  pid = 14564, uid = 10471, fore = true ; now is : com.example.dogglers
+09-27 11:35:34.908 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3c7949b in: PRE_ON_CREATE
+09-27 11:35:34.909  1576  1590 I ProxCoverNoticeService: top activity name = com.example.dogglers
+09-27 11:35:34.909  1576  1590 E ProxCoverNoticeService: monitor view is null, no need to update minimum
+09-27 11:35:34.909  1576  1590 I ProxCoverNoticeService: onForegroundActivitiesChanged, pid = 14564, uid = 10471, pkg = com.example.dogglers, foregroundActivities = true
+09-27 11:35:34.909  1443  1443 D PhoneStatusBar: setSystemUiVisibility vis=408 mask=ffffffff oldVal=608 newVal=408 diff=200
+09-27 11:35:34.909 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3c7949b
+09-27 11:35:34.911  1576  1576 D GameModeManager: cursor.count = 169
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.plagueinc
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.firsttouchgames.story
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.jumpgames.rswrb
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.plagueinc
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.kiloo.subwaysurf
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mediocre.smashhit
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.gameloft.android.ANMP.GloftA8HM
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.plagueinc
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.outfit7.mytalkingtomfree
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.kiloo.subwaysurf
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.outfit7.mytalkingtomfree
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.kiloo.subwaysurf
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.plagueinc
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.kiloo.subwaysurf
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.plagueinc
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.plagueinc
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.youmusic.magictiles
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.skgames.trafficrider
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.gameloft.android.ANMP.GloftGOHM
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.roblox.client
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.chillingo.robberybobfree.android.row
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.gameloft.android.ANMP.GloftGGHM
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.912  2069 15994 I UpSlideHelper: UpSlide|toggleUpSlideViewInCamera isInCamera = false
+09-27 11:35:34.913  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.eightballpool
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.wb.goog.mkx
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.eightballpool
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.914  1576  1576 D GameModeManager: cursor.pkg = com.glu.deerhunt2
+09-27 11:35:34.915  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.915  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.915  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.915  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.915  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.915  1576  1576 D GameModeManager: cursor.pkg = com.gameloft.android.ANMP.GloftDOHM
+09-27 11:35:34.915  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.915  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.915  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = uk.co.aifactory.chessfree
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.fingersoft.hcr2
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.youmusic.magictiles
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.youmusic.magictiles
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.youmusic.magictiles
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = net.froemling.bombsquad
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.eightballpool
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.eightballpool
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.916  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1509  4651 I _V_ABE  : PowerEngineService enter the forgound
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1590 I ProxCoverNoticeService: isKeyguardLocked = false, isDeviceLocked = false, isKeyguardSecure = true, isDeviceSecure = true, inKeyguardRestrictedInputMode = false
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.halfbrick.jetpackjoyride
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.halfbrick.jetpackjoyride
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.halfbrick.jetpackjoyride
+09-27 11:35:34.917  1576  1576 D GameModeManager: cursor.pkg = com.halfbrick.jetpackjoyride
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.halfbrick.jetpackjoyride
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.halfbrick.jetpackjoyride
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.halfbrick.jetpackjoyride
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.halfbrick.jetpackjoyride
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.skgames.trafficrider
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.ea.game.simcitymobile_row
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.sega.sonicdash
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.rebeltwins.aliensdrivemecrazy
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.gameloft.android.ANMP.GloftGOHM
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.ea.games.simsfreeplay_row
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = mobi.bestfreegames.bike.mayhem.extreme.mountain.racing.free
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.vectorunit.yellow
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.supercell.clashofclans
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.topfreegames.bikeracefreeworld
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.imangi.templerun
+09-27 11:35:34.918  1576  1576 D GameModeManager: cursor.pkg = com.imangi.templerun2
+09-27 11:35:34.921 28697 28809 D Surface : Surface::disconnect(this=0x780d0af000,api=1)
+09-27 11:35:34.921   315   998 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher](this:0x764429d000,id:3295,api:1,p:-1,c:315) disconnect(P): api 1
+09-27 11:35:34.921   315   998 D GraphicBuffer: free, handle(0x764435f500) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:34.921  1576  1576 D GameModeManager: The package:com.example.dogglers is moved to foreground
+09-27 11:35:34.922   315   998 I BufferQueueConsumer: [com.bbk.launcher2/com.bbk.launcher2.Launcher](this:0x764429d000,id:3295,api:1,p:-1,c:315) getReleasedBuffers: returning mask 0xffffffffffffffff
+09-27 11:35:34.922   315   998 D GraphicBuffer: free, handle(0x7646a5b680) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:34.923 28697 28809 D GraphicBuffer: unregister, handle(0x780f931940) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:34.923 28697 28809 D GraphicBuffer: unregister, handle(0x780c693480) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:34.924 28697 28809 D GraphicBuffer: unregister, handle(0x780c72af00) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:34.924 28697 28809 D Surface : Surface::disconnect(this=0x780d0af000,api=1)
+09-27 11:35:34.925   315   380 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher](this:0x764429d000,id:3295,api:1,p:-1,c:315) disconnect(P): api 1
+09-27 11:35:34.932 14564 14564 D PhoneWindow: DEBUG_SYSTEMUI:origin statusbar style
+09-27 11:35:34.932 14564 14564 D PhoneWindow: DEBUG_SYSTEMUI:IconColor=1
+09-27 11:35:34.933 14564 14564 D PhoneWindow: DEBUG_SYSTEMUI:StatusBarColor final set ff000000
+09-27 11:35:34.936 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3c7949b in: CREATED
+09-27 11:35:34.936 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3c7949b
+09-27 11:35:34.937 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3c7949b in: STARTED
+09-27 11:35:34.937 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3c7949b
+09-27 11:35:34.946  1576  3486 I SLService1: ActivityController mIsAndroidN_VivoMultiWindow = true, mIsMultiWindowOn = false
+09-27 11:35:34.946  1576  3486 I SLService1: [Monitor]1--------[] t [com.example.dogglers] f []
+09-27 11:35:34.946  1576  3486 I SLService1: HAHA1 >>>> true <<<<
+09-27 11:35:34.947  1576  3491 D SLService: optionsFromCallbacks = null
+09-27 11:35:34.955 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3c7949b in: RESUMED
+09-27 11:35:34.956 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3c7949b
+09-27 11:35:34.959  4585  4889 I FloatWindowManagerService: top = com.example.dogglers
+09-27 11:35:34.959  4585  4889 I FloatWindowManagerService:  ; Last is : com.bbk.launcher2 ; To is : com.example.dogglers
+09-27 11:35:34.960 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3c7949b in: PAUSED
+09-27 11:35:34.961  4585  4889 I FloatWindowManagerService: cur  : com.example.dogglers is al , nothing to need to do !
+09-27 11:35:34.961 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3c7949b
+09-27 11:35:34.963  1078  8670 D PerfServiceWrapper: [PerfServiceWrapper] appBoostEnable
+09-27 11:35:34.963  1078  8670 D PerfService: [PerfService] appBoostEnable: com.example.dogglers
+09-27 11:35:34.963  1078  8670 D PerfServiceManager: [PerfService] appBoostEnable com.example.dogglers
+09-27 11:35:34.980  2069  4665 I UpSlideHelper: UpSlide|toggleUpSlideViewInCamera isInCamera = false
+09-27 11:35:34.984 14564 14564 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@2b3ff7c in: PRE_ON_CREATE
+09-27 11:35:34.984  1576  1576 D MotionRecognitionManager: unregisterMotionRecognitionListener type last
+09-27 11:35:34.984  1576  1576 D ShakeDetectService: stopMotionRecognitionService true
+09-27 11:35:34.984  1078  4465 D Sensors : batch handle =0, flag=0, sampling=66667000, batchtimeout=0
+09-27 11:35:34.984 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+09-27 11:35:34.985  1078  4465 D Sensors : handleToDriver handle(0)
+09-27 11:35:34.985  1078  4465 D Sensors : handleToDriver handle(0)
+09-27 11:35:34.985  1078  4465 D Accel   : setDelay: (handle=0, ns=66667000)
+09-27 11:35:34.985  1078  4465 E Sensors : new setDelay handle(0),ns(66667000)m, error(0), index(2)
+09-27 11:35:34.985  1078  4465 E Accel   : ACC batch: handle:0, en:0,samplingPeriodNs:66667000 maxBatchReportLatencyNs:0
+09-27 11:35:34.985  1078  4465 D Accel   : path:/sys/class/misc/m_acc_misc/accbatch
+09-27 11:35:34.986  1078  4465 D Accel   : ACC batch(0) done
+09-27 11:35:34.986  1078  4465 E Sensors : sensor 0 go to common batch
+09-27 11:35:34.986  1078  4465 D BATCH   : no batch control attr
+09-27 11:35:34.986  1576  1576 D MotionRecognitionManager: unregisterMotionRecognitionListener type: 7
+09-27 11:35:35.001  1576  1772 D GameModeManager: GameModeOverseaHandler--handleMessage 3001
+09-27 11:35:35.016 14564 14564 D PhoneWindow: DEBUG_SYSTEMUI:origin statusbar style
+09-27 11:35:35.016 14564 14564 D PhoneWindow: DEBUG_SYSTEMUI:windowDrawsFlag set
+09-27 11:35:35.016 14564 14564 D PhoneWindow: DEBUG_SYSTEMUI:IconColor=1
+09-27 11:35:35.016 14564 14564 D PhoneWindow: DEBUG_SYSTEMUI:StatusBarColor final set ff3700b3
+09-27 11:35:35.035 14564 14564 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@2b3ff7c in: CREATED
+09-27 11:35:35.035 14564 14564 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.MainActivity@2b3ff7c
+09-27 11:35:35.037 14564 14564 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@2b3ff7c in: STARTED
+09-27 11:35:35.038 14564 14564 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.MainActivity@2b3ff7c
+09-27 11:35:35.043 14564 14564 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@2b3ff7c in: RESUMED
+09-27 11:35:35.043 14564 14564 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.MainActivity@2b3ff7c
+09-27 11:35:35.045 14564 14564 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = null, this = DecorView@afb000e[]
+09-27 11:35:35.046 14564 14564 D WindowClient: Add to mViews: DecorView@afb000e[MainActivity], this = android.view.WindowManagerGlobal@b39bad9
+09-27 11:35:35.048 14564 14597 D OpenGLRenderer: CanvasContext() 0x780e753000
+09-27 11:35:35.048 14564 14564 D ViewRootImpl[MainActivity]: hardware acceleration is enabled, this = ViewRoot{6e19122 com.example.dogglers/com.example.dogglers.MainActivity,ident = 15}
+09-27 11:35:35.051 14564 14564 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = ViewRoot{6e19122 com.example.dogglers/com.example.dogglers.MainActivity,ident = 15}, this = DecorView@afb000e[MainActivity]
+09-27 11:35:35.063   315   315 I BufferQueue: [unnamed-315-3297](this:0x7644286800,id:3297,api:0,p:-1,c:-1) BufferQueue core=(315:/system/bin/surfaceflinger)
+09-27 11:35:35.063   315   315 I BufferQueueConsumer: [unnamed-315-3297](this:0x7644286800,id:3297,api:0,p:-1,c:315) connect(C): consumer=(315:/system/bin/surfaceflinger) controlledByApp=false
+09-27 11:35:35.063   315   315 I BufferQueueConsumer: [unnamed-315-2650](this:0x7644286800,id:3297,api:0,p:-1,c:315) setConsumerName: unnamed-315-2650
+09-27 11:35:35.063   315   315 I BufferQueueConsumer: [com.example.dogglers/com.example.dogglers.MainActivity](this:0x7644286800,id:3297,api:0,p:-1,c:315) setConsumerName: com.example.dogglers/com.example.dogglers.MainActivity
+09-27 11:35:35.063   315   315 I BufferQueueProducer: [](this:0x7644286800,id:3297,api:0,p:-1,c:315) setMaxDequeuedBufferCount: maxDequeuedBuffers = 2
+09-27 11:35:35.063   315   315 I BufferQueueConsumer: [com.example.dogglers/com.example.dogglers.MainActivity](this:0x7644286800,id:3297,api:0,p:-1,c:315) setDefaultBufferSize: width=1 height=1
+09-27 11:35:35.066  1443  1443 D PhoneStatusBar: setSystemUiVisibility vis=608 mask=ffffffff oldVal=408 newVal=608 diff=200
+09-27 11:35:35.069   315   315 I BufferQueueConsumer: [com.example.dogglers/com.example.dogglers.MainActivity](this:0x7644286800,id:3297,api:0,p:-1,c:315) setDefaultBufferSize: width=720 height=1280
+09-27 11:35:35.075 14564 14564 D Surface : Surface::allocateBuffers(this=0x7812cbbe00)
+09-27 11:35:35.075 14564 14597 D OpenGLRenderer: CanvasContext() 0x780e753000 initialize window=0x7812cbbe00, title=com.example.dogglers/com.example.dogglers.MainActivity
+09-27 11:35:35.075 14564 14597 D Surface : Surface::connect(this=0x7812cbbe00,api=1)
+09-27 11:35:35.076   315  2474 I BufferQueueProducer: [com.example.dogglers/com.example.dogglers.MainActivity](this:0x7644286800,id:3297,api:1,p:14564,c:315) connect(P): api=1 producer=(14564:com.example.dogglers) producerControlledByApp=true
+09-27 11:35:35.076 14564 14597 W libEGL  : [ANDROID_RECORDABLE] format: 1
+09-27 11:35:35.077   315   380 D GraphicBuffer: alloc, handle(0x7644316680) (w:720 h:1280 s:720 f:0x1 u:0x000900) err(0)
+09-27 11:35:35.077 28697 28697 D PhoneWindow: DEBUG_SYSTEMUI:setStatusBarColor:0
+09-27 11:35:35.079   315   380 D GraphicBuffer: alloc, handle(0x764c224840) (w:720 h:1280 s:720 f:0x1 u:0x000900) err(0)
+09-27 11:35:35.080  2069  2069 I WhiteListHelper: UpSlide|isPkgHidedInVisitorMode >>> pkg = com.facebook.orca, mHideIconList = null
+09-27 11:35:35.080   315   380 D GraphicBuffer: alloc, handle(0x7644284040) (w:720 h:1280 s:720 f:0x1 u:0x000900) err(0)
+09-27 11:35:35.080  2069  2069 I WhiteListHelper: UpSlide|isPkgHidedInVisitorMode >>> pkg = com.example.dogglers, mHideIconList = null
+09-27 11:35:35.081 14564 14597 D mali_winsys: EGLint new_window_surface(egl_winsys_display*, void*, EGLSurface, EGLConfig, egl_winsys_surface**, egl_color_buffer_format*, EGLBoolean) returns 0x3000
+09-27 11:35:35.112   315   380 I BufferQueueProducer: [com.example.dogglers/com.example.dogglers.MainActivity](this:0x7644286800,id:3297,api:1,p:14564,c:315) new GraphicBuffer needed
+09-27 11:35:35.112   315   380 D GraphicBuffer: free, handle(0x7644284040) (w:720 h:1280 s:720 f:0x1 u:0x000900)
+09-27 11:35:35.114   315   380 D GraphicBuffer: alloc, handle(0x7644284040) (w:720 h:1280 s:720 f:0x1 u:0x000b00) err(0)
+09-27 11:35:35.114 14564 14597 D GraphicBuffer: register, handle(0x7810380a40) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.117   315   998 I BufferQueueProducer: [com.example.dogglers/com.example.dogglers.MainActivity](this:0x7644286800,id:3297,api:1,p:14564,c:315) new GraphicBuffer needed
+09-27 11:35:35.117   315   998 D GraphicBuffer: free, handle(0x764c224840) (w:720 h:1280 s:720 f:0x1 u:0x000900)
+09-27 11:35:35.119   315   998 D GraphicBuffer: alloc, handle(0x764c224840) (w:720 h:1280 s:720 f:0x1 u:0x000b00) err(0)
+09-27 11:35:35.120   315   315 D MALI    : eglCreateImageKHR:513: [Crop] 0 0 0 0  img[720 1280]
+09-27 11:35:35.120 14564 14597 D GraphicBuffer: register, handle(0x780e730b80) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.125 14564 14564 V InputMethodManager: onWindowFocus: null softInputMode=288 first=true flags=#81810100
+09-27 11:35:35.129  1078  1182 I ActivityManager: Displayed com.example.dogglers/.MainActivity: +166ms (total +1s92ms)
+09-27 11:35:35.130  1343  1343 I GoogleInputMethodServic: GoogleInputMethodService.onFinishInput():3274
+09-27 11:35:35.131  1343  1343 I GoogleInputMethodServic: GoogleInputMethodService.updateDeviceLockedStatus():2166 repeatCheckTimes = 0, unlocked = true
+09-27 11:35:35.131  1343  1343 I GoogleInputMethodServic: GoogleInputMethodService.onStartInput():1957 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+09-27 11:35:35.132  1343  1343 I GoogleInputMethodServic: GoogleInputMethodService.shouldHideHeaderOnInitialState():4078 ShouldHideHeaderOnInitialState = false
+09-27 11:35:35.132  1343  1343 I GoogleInputMethodServic: GoogleInputMethodService.updateDeviceLockedStatus():2166 repeatCheckTimes = 2, unlocked = true
+09-27 11:35:35.134  1078  1182 D WindowClient: Remove from mViews: DecorView@6911cae[dogglers], this = android.view.WindowManagerGlobal@b7c1b19
+09-27 11:35:35.138   315   333 I BufferQueueProducer: [com.example.dogglers/com.example.dogglers.MainActivity](this:0x7644286800,id:3297,api:1,p:14564,c:315) new GraphicBuffer needed
+09-27 11:35:35.138   315   333 D GraphicBuffer: free, handle(0x7644316680) (w:720 h:1280 s:720 f:0x1 u:0x000900)
+09-27 11:35:35.140   315   333 D GraphicBuffer: alloc, handle(0x7644316680) (w:720 h:1280 s:720 f:0x1 u:0x000b00) err(0)
+09-27 11:35:35.141 14564 14597 D GraphicBuffer: register, handle(0x7810381ac0) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.146 14564 14564 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131230947/com.example.dogglers:id/horizontal_btn>
+09-27 11:35:35.153   315   315 D MALI    : eglCreateImageKHR:513: [Crop] 0 0 0 0  img[720 1280]
+09-27 11:35:35.158  1443  1443 D ImageWallpaper: onVisibilityChanged: mVisible, visible=true, false
+09-27 11:35:35.158  1443  1443 D ImageWallpaper: Visibility changed to visible=false
+09-27 11:35:35.159  1576  3491 I SLService1: ActivityController mIsAndroidN_VivoMultiWindow = true, mIsMultiWindowOn = false
+09-27 11:35:35.159  1576  3491 I SLService1: [Monitor]1--------[] t [com.example.dogglers] f []
+09-27 11:35:35.159  1576  3491 I SLService1: HAHA1 >>>> true <<<<
+09-27 11:35:35.160  1576  2492 D SLService: optionsFromCallbacks = null
+09-27 11:35:35.169   315   315 I SurfaceFlinger: frameMissed
+09-27 11:35:35.170 14564 14564 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@2b3ff7c in: PAUSED
+09-27 11:35:35.171 14564 14564 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.MainActivity@2b3ff7c
+09-27 11:35:35.175  1078  4465 D PerfServiceWrapper: [PerfServiceWrapper] appBoostEnable
+09-27 11:35:35.175  1078  4465 D PerfService: [PerfService] appBoostEnable: com.example.dogglers
+09-27 11:35:35.175  1078  4465 D PerfServiceManager: [PerfService] appBoostEnable com.example.dogglers
+09-27 11:35:35.184 28697 28697 D Launcher: onSaveInstanceState
+09-27 11:35:35.188 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 0
+09-27 11:35:35.189 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 1
+09-27 11:35:35.189 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 2
+09-27 11:35:35.189 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 3
+09-27 11:35:35.189 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 4
+09-27 11:35:35.189 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 5
+09-27 11:35:35.190 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 6
+09-27 11:35:35.190 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 7
+09-27 11:35:35.190 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 8
+09-27 11:35:35.190 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 9
+09-27 11:35:35.193 28697 28697 D Launcher: onStop: mState is WORKSPACE
+09-27 11:35:35.194 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fde1e2a in: PRE_ON_CREATE
+09-27 11:35:35.194  1078  1158 V NetworkPolicy: updateRuleForRestrictBackgroundLocked(10039): isForeground=false, isBlacklisted=false, isWhitelisted=true, oldRule=1 (ALLOW_METERED), newRule=1 (ALLOW_METERED), newUidRules=1 (ALLOW_METERED), oldUidRules=1 (ALLOW_METERED)
+09-27 11:35:35.194 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 0
+09-27 11:35:35.194 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 1
+09-27 11:35:35.194 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 2
+09-27 11:35:35.194 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 3
+09-27 11:35:35.194 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 4
+09-27 11:35:35.194 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fde1e2a
+09-27 11:35:35.194 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 5
+09-27 11:35:35.194 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 6
+09-27 11:35:35.194 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 7
+09-27 11:35:35.194 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 8
+09-27 11:35:35.194 28697 28697 V LoaderManager: destroyLoader in LoaderManager{55ca5cd in Launcher{bf69b35}} of 9
+09-27 11:35:35.195  1078  1158 V NetworkPolicy: updateRulesForNonMeteredNetworksLocked(10039), isIdle: false, mRestrictPower: false, mDeviceIdleMode: false, isForeground=false, isWhitelisted=false, oldRule=0 (NONE), newRule=0 (NONE), newUidRules=1 (ALLOW_METERED), oldUidRules=1 (ALLOW_METERED)
+09-27 11:35:35.196 28697 28697 D BlurRenderView: test gpu blur GpuTextureRenderView onPause mIsResumeState: false, mHandle: 516125494064
+09-27 11:35:35.196 28697 28697 D GpuRenderEngine: test gpu blur jni nativePause handle: 516125494064, pCRenderManager: 0x782b7a0b30
+09-27 11:35:35.196 28697 28697 D GpuRenderEngine: test gpu blur CBlur pause <--
+09-27 11:35:35.196 28697 28697 D GpuRenderEngine: test gpu blur CBlur resetStates <--
+09-27 11:35:35.197 28697 28697 D yuan    : onVisibilityChanged----android.widget.ListView{a3a98fe V.ED..C.. ......I. 0,0-0,0}
+09-27 11:35:35.198 28697 28697 D yuan    : onVisibilityChanged----com.bbk.launcher2.search.AnimPinnedHeaderListView{ce800f VFED.VC.. ......I. 0,0-0,0 #7f0c0085 app:id/listview}
+09-27 11:35:35.198 28697 28697 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = ViewRoot{9d7d295 com.bbk.launcher2/com.bbk.launcher2.Launcher,ident = 0}, this = DecorView@ddf085[Launcher]
+09-27 11:35:35.199  4414  4644 I _V_UsageAppManager: deleteDiedAppList_getUid()=10012
+09-27 11:35:35.199  4414  4644 I _V_UsageAppManager: deleteDiedAppList_getPid()=13593
+09-27 11:35:35.199  4414  4644 I _V_UsageAppManager: deleteDiedAppList_mForgroundInfo_pid=14564,mForgroundInfo_pkgName=com.example.dogglers,mForgroundInfo_uid=10471,mBackgroundInfo_pid=28697,mBackgroundInfo_pkgName=com.bbk.launcher2,mBackgroundInfo_uid=10039
+09-27 11:35:35.206 14564 14564 D PhoneWindow: DEBUG_SYSTEMUI:origin statusbar style
+09-27 11:35:35.206 14564 14564 D PhoneWindow: DEBUG_SYSTEMUI:IconColor=1
+09-27 11:35:35.206 14564 14564 D PhoneWindow: DEBUG_SYSTEMUI:StatusBarColor final set ff000000
+09-27 11:35:35.209 14912 14930 I _V_SecureService2: onForegroundActivitiesChanged() pid = 28697, uid = 10039, foregroundActivities = false
+09-27 11:35:35.209  1078  1158 D VivoAppMonitor: onForegroundActivitiesChanged: pid=28697, uid=10039, foregroundActivities=false
+09-27 11:35:35.209  1078  1158 D touchscreenjni: chenpeng JNI called
+09-27 11:35:35.210  1078  1158 E touchscreen: Open /sys/touchscreen/app_name failed
+09-27 11:35:35.211  1576  1588 I SLService2: HAHA2 pid = 28697, uid = 10039, f = false
+09-27 11:35:35.211  4414  4644 I _V_UsageAppManager: dealAppInfoList.getPid()=28697,dealAppInfoList.getUid()=10039,dealAppInfoList.getPkgName()=com.bbk.launcher2
+09-27 11:35:35.211  4414  4644 I _V_UsageAppManager: dealAppInfoList_mForgroundInfo_pid=14564,mForgroundInfo_pkgName=com.example.dogglers,mForgroundInfo_uid=10471,mBackgroundInfo_pid=28697,mBackgroundInfo_pkgName=com.bbk.launcher2,mBackgroundInfo_uid=10039
+09-27 11:35:35.212  4585  4889 I FloatWindowManagerService:  pid = 28697, uid = 10039, fore = false ; now is : com.bbk.launcher2
+09-27 11:35:35.213  4414  4644 I _V_UsageAppManager: getversionCode=322
+09-27 11:35:35.213  4414  4644 I _V_UsageAppManager: getVersionName_name=3.2
+09-27 11:35:35.213 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fde1e2a in: CREATED
+09-27 11:35:35.214 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fde1e2a
+09-27 11:35:35.215 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fde1e2a in: STARTED
+09-27 11:35:35.215 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fde1e2a
+09-27 11:35:35.216  1576  3486 I ProxCoverNoticeService: isHomeLauncher = false
+09-27 11:35:35.217  1576  3486 I ProxCoverNoticeService: top activity name = com.example.dogglers
+09-27 11:35:35.217  1576  3486 E ProxCoverNoticeService: monitor view is null, no need to update minimum
+09-27 11:35:35.217  1576  3486 I ProxCoverNoticeService: onForegroundActivitiesChanged, pid = 28697, uid = 10039, pkg = com.bbk.launcher2, foregroundActivities = false
+09-27 11:35:35.218  1576  3486 I ProxCoverNoticeService: isKeyguardLocked = false, isDeviceLocked = false, isKeyguardSecure = true, isDeviceSecure = true, inKeyguardRestrictedInputMode = false
+09-27 11:35:35.218   315   315 I BufferQueueConsumer: [com.bbk.launcher2/com.bbk.launcher2.Launcher](this:0x764429d000,id:3295,api:1,p:-1,c:-1) disconnect(C)
+09-27 11:35:35.218   315   315 I BufferQueue: [com.bbk.launcher2/com.bbk.launcher2.Launcher](this:0x764429d000,id:3295,api:1,p:-1,c:-1) ~BufferQueueCore
+09-27 11:35:35.219   315   315 D GraphicBuffer: free, handle(0x7644284d00) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.223 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fde1e2a in: RESUMED
+09-27 11:35:35.224 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fde1e2a
+09-27 11:35:35.225 14564 14564 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = null, this = DecorView@7b85391[]
+09-27 11:35:35.226 14564 14564 D WindowClient: Add to mViews: DecorView@7b85391[InstrumentationActivityInvoker$EmptyActivity], this = android.view.WindowManagerGlobal@b39bad9
+09-27 11:35:35.227 14564 14597 D OpenGLRenderer: CanvasContext() 0x780e756800
+09-27 11:35:35.228 14564 14564 D ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]: hardware acceleration is enabled, this = ViewRoot{c6aab93 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity,ident = 16}
+09-27 11:35:35.231 14564 14564 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = ViewRoot{c6aab93 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity,ident = 16}, this = DecorView@7b85391[InstrumentationActivityInvoker$EmptyActivity]
+09-27 11:35:35.236  1078  1182 D Surface : Surface::disconnect(this=0x77feec2400,api=2)
+09-27 11:35:35.237   315  2474 I BufferQueueProducer: [Starting com.example.dogglers](this:0x7644285000,id:3296,api:2,p:-1,c:315) disconnect(P): api 2
+09-27 11:35:35.237   315  2474 I BufferQueueConsumer: [Starting com.example.dogglers](this:0x7644285000,id:3296,api:2,p:-1,c:315) getReleasedBuffers: returning mask 0xffffffffffffffff
+09-27 11:35:35.237 14564 14564 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@2b3ff7c in: STOPPED
+09-27 11:35:35.237  1078  1182 D GraphicBuffer: unregister, handle(0x77fef92140) (w:720 h:1280 s:720 f:0x1 u:0x000933)
+09-27 11:35:35.237 14564 14564 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.MainActivity@2b3ff7c
+09-27 11:35:35.239 14564 14564 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = ViewRoot{6e19122 com.example.dogglers/com.example.dogglers.MainActivity,ident = 15}, this = DecorView@afb000e[MainActivity]
+09-27 11:35:35.239 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3c7949b in: STOPPED
+09-27 11:35:35.240 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3c7949b
+09-27 11:35:35.245   315   315 I BufferQueue: [unnamed-315-3298](this:0x764429d000,id:3298,api:0,p:-1,c:-1) BufferQueue core=(315:/system/bin/surfaceflinger)
+09-27 11:35:35.245   315   315 I BufferQueueConsumer: [unnamed-315-3298](this:0x764429d000,id:3298,api:0,p:-1,c:315) connect(C): consumer=(315:/system/bin/surfaceflinger) controlledByApp=false
+09-27 11:35:35.245   315   315 I BufferQueueConsumer: [unnamed-315-2651](this:0x764429d000,id:3298,api:0,p:-1,c:315) setConsumerName: unnamed-315-2651
+09-27 11:35:35.245   315   315 I BufferQueueConsumer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity](this:0x764429d000,id:3298,api:0,p:-1,c:315) setConsumerName: com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+09-27 11:35:35.246   315   315 I BufferQueueProducer: [](this:0x764429d000,id:3298,api:0,p:-1,c:315) setMaxDequeuedBufferCount: maxDequeuedBuffers = 2
+09-27 11:35:35.246   315   315 I BufferQueueConsumer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity](this:0x764429d000,id:3298,api:0,p:-1,c:315) setDefaultBufferSize: width=720 height=1280
+09-27 11:35:35.248  1443  1443 D PhoneStatusBar: setSystemUiVisibility vis=408 mask=ffffffff oldVal=608 newVal=408 diff=200
+09-27 11:35:35.251   315   315 I BufferQueueConsumer: [Starting com.example.dogglers](this:0x7644285000,id:3296,api:2,p:-1,c:-1) disconnect(C)
+09-27 11:35:35.251   315   315 I BufferQueue: [Starting com.example.dogglers](this:0x7644285000,id:3296,api:2,p:-1,c:-1) ~BufferQueueCore
+09-27 11:35:35.252 14564 14597 D OpenGLRenderer: CanvasContext() 0x780e756800 initialize window=0x7812da9400, title=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+09-27 11:35:35.252 14564 14564 D Surface : Surface::allocateBuffers(this=0x7812da9400)
+09-27 11:35:35.252 14564 14597 D Surface : Surface::connect(this=0x7812da9400,api=1)
+09-27 11:35:35.252   315   315 D GraphicBuffer: free, handle(0x764c224900) (w:720 h:1280 s:720 f:0x1 u:0x000933)
+09-27 11:35:35.252   315  2474 I BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity](this:0x764429d000,id:3298,api:1,p:14564,c:315) connect(P): api=1 producer=(14564:com.example.dogglers) producerControlledByApp=true
+09-27 11:35:35.252 14564 14597 W libEGL  : [ANDROID_RECORDABLE] format: 1
+09-27 11:35:35.254   315   335 D GraphicBuffer: alloc, handle(0x76442ae2c0) (w:720 h:1280 s:720 f:0x1 u:0x000900) err(0)
+09-27 11:35:35.255   315   335 D GraphicBuffer: alloc, handle(0x7644317d00) (w:720 h:1280 s:720 f:0x1 u:0x000900) err(0)
+09-27 11:35:35.256   315   335 D GraphicBuffer: alloc, handle(0x764435e9c0) (w:720 h:1280 s:720 f:0x1 u:0x000900) err(0)
+09-27 11:35:35.257 14564 14597 D mali_winsys: EGLint new_window_surface(egl_winsys_display*, void*, EGLSurface, EGLConfig, egl_winsys_surface**, egl_color_buffer_format*, EGLBoolean) returns 0x3000
+09-27 11:35:35.259 14564 14597 D Surface : Surface::disconnect(this=0x7812cbbe00,api=1)
+09-27 11:35:35.259   315  2474 I BufferQueueProducer: [com.example.dogglers/com.example.dogglers.MainActivity](this:0x7644286800,id:3297,api:1,p:-1,c:315) disconnect(P): api 1
+09-27 11:35:35.259   315  2474 D GraphicBuffer: free, handle(0x7644316680) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.259   315  2474 I BufferQueueConsumer: [com.example.dogglers/com.example.dogglers.MainActivity](this:0x7644286800,id:3297,api:1,p:-1,c:315) getReleasedBuffers: returning mask 0xffffffffffffffff
+09-27 11:35:35.260   315  2474 D GraphicBuffer: free, handle(0x7644284040) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.260 14564 14597 D GraphicBuffer: unregister, handle(0x7810380a40) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.260 14564 14597 D GraphicBuffer: unregister, handle(0x780e730b80) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.261 14564 14597 D GraphicBuffer: unregister, handle(0x7810381ac0) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.261 14564 14597 D Surface : Surface::disconnect(this=0x7812cbbe00,api=1)
+09-27 11:35:35.262   315   998 I BufferQueueProducer: [com.example.dogglers/com.example.dogglers.MainActivity](this:0x7644286800,id:3297,api:1,p:-1,c:315) disconnect(P): api 1
+09-27 11:35:35.269 14564 14564 V InputMethodManager: onWindowFocus: null softInputMode=288 first=true flags=#1810100
+09-27 11:35:35.271  1343  1343 I GoogleInputMethodServic: GoogleInputMethodService.onFinishInput():3274
+09-27 11:35:35.272  1343  1343 I GoogleInputMethodServic: GoogleInputMethodService.updateDeviceLockedStatus():2166 repeatCheckTimes = 0, unlocked = true
+09-27 11:35:35.272  1343  1343 I GoogleInputMethodServic: GoogleInputMethodService.onStartInput():1957 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+09-27 11:35:35.273  1343  1343 I GoogleInputMethodServic: GoogleInputMethodService.shouldHideHeaderOnInitialState():4078 ShouldHideHeaderOnInitialState = false
+09-27 11:35:35.274  1343  1343 I GoogleInputMethodServic: GoogleInputMethodService.updateDeviceLockedStatus():2166 repeatCheckTimes = 2, unlocked = true
+09-27 11:35:35.274   315   335 I BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity](this:0x764429d000,id:3298,api:1,p:14564,c:315) new GraphicBuffer needed
+09-27 11:35:35.274   315   335 D GraphicBuffer: free, handle(0x764435e9c0) (w:720 h:1280 s:720 f:0x1 u:0x000900)
+09-27 11:35:35.276   315   335 D GraphicBuffer: alloc, handle(0x764435e9c0) (w:720 h:1280 s:720 f:0x1 u:0x000b00) err(0)
+09-27 11:35:35.277 14564 14597 D GraphicBuffer: register, handle(0x780e6a39c0) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.279   315   380 I BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity](this:0x764429d000,id:3298,api:1,p:14564,c:315) new GraphicBuffer needed
+09-27 11:35:35.279   315   380 D GraphicBuffer: free, handle(0x7644317d00) (w:720 h:1280 s:720 f:0x1 u:0x000900)
+09-27 11:35:35.281   315   380 D GraphicBuffer: alloc, handle(0x7644317d00) (w:720 h:1280 s:720 f:0x1 u:0x000b00) err(0)
+09-27 11:35:35.282 14564 14597 D GraphicBuffer: register, handle(0x780e6a4f80) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.285   315   315 D MALI    : eglCreateImageKHR:513: [Crop] 0 0 0 0  img[720 1280]
+09-27 11:35:35.285  1576  3491 I SLService3: HAHA3 : com.example.dogglers
+09-27 11:35:35.293 14564 14564 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@2b3ff7c in: DESTROYED
+09-27 11:35:35.294 14564 14564 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+09-27 11:35:35.295  2069  2069 I WhiteListHelper: UpSlide|isPkgHidedInVisitorMode >>> pkg = com.facebook.orca, mHideIconList = null
+09-27 11:35:35.296  1078  1182 I ActivityManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +121ms
+09-27 11:35:35.297  2069  2069 I WhiteListHelper: UpSlide|isPkgHidedInVisitorMode >>> pkg = com.example.dogglers, mHideIconList = null
+09-27 11:35:35.298  2069 15994 I UpSlideHelper: UpSlide|toggleUpSlideViewInCamera isInCamera = false
+09-27 11:35:35.300 14564 14564 D WindowClient: Remove from mViews: DecorView@afb000e[MainActivity], this = android.view.WindowManagerGlobal@b39bad9
+09-27 11:35:35.300  1576  1590 I SLService1: ActivityController mIsAndroidN_VivoMultiWindow = true, mIsMultiWindowOn = false
+09-27 11:35:35.301  1576  1590 I SLService1: [Monitor]1--------[] t [com.example.dogglers] f []
+09-27 11:35:35.301  1576  1590 I SLService1: HAHA1 >>>> true <<<<
+09-27 11:35:35.301   315   315 I BufferQueueConsumer: [com.example.dogglers/com.example.dogglers.MainActivity](this:0x7644286800,id:3297,api:1,p:-1,c:-1) disconnect(C)
+09-27 11:35:35.302  1576  1652 D SLService: optionsFromCallbacks = null
+09-27 11:35:35.302   315   315 D GraphicBuffer: free, handle(0x764c224840) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.302   315   315 I BufferQueue: [com.example.dogglers/com.example.dogglers.MainActivity](this:0x7644286800,id:3297,api:1,p:-1,c:-1) ~BufferQueueCore
+09-27 11:35:35.315  1576  2492 I SLService3: HAHA3 : com.example.dogglers
+09-27 11:35:35.318 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fde1e2a in: PAUSED
+09-27 11:35:35.319 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fde1e2a
+09-27 11:35:35.320  1078  2789 D PerfServiceWrapper: [PerfServiceWrapper] appBoostEnable
+09-27 11:35:35.320  1078  2789 D PerfService: [PerfService] appBoostEnable: com.example.dogglers
+09-27 11:35:35.320  1078  2789 D PerfServiceManager: [PerfService] appBoostEnable com.example.dogglers
+09-27 11:35:35.331 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3c7949b in: DESTROYED
+09-27 11:35:35.332 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3c7949b
+09-27 11:35:35.338 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@8c2be7 in: PRE_ON_CREATE
+09-27 11:35:35.338 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@8c2be7
+09-27 11:35:35.344 14564 14564 D PhoneWindow: DEBUG_SYSTEMUI:origin statusbar style
+09-27 11:35:35.344 14564 14564 D PhoneWindow: DEBUG_SYSTEMUI:IconColor=1
+09-27 11:35:35.344 14564 14564 D PhoneWindow: DEBUG_SYSTEMUI:StatusBarColor final set ff000000
+09-27 11:35:35.347 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@8c2be7 in: CREATED
+09-27 11:35:35.348 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@8c2be7
+09-27 11:35:35.349 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@8c2be7 in: STARTED
+09-27 11:35:35.349 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@8c2be7
+09-27 11:35:35.355 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@8c2be7 in: RESUMED
+09-27 11:35:35.355 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@8c2be7
+09-27 11:35:35.356 14564 14564 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = null, this = DecorView@a27d632[]
+09-27 11:35:35.357 14564 14564 D WindowClient: Add to mViews: DecorView@a27d632[InstrumentationActivityInvoker$EmptyActivity], this = android.view.WindowManagerGlobal@b39bad9
+09-27 11:35:35.359 14564 14597 D OpenGLRenderer: CanvasContext() 0x780e75a000
+09-27 11:35:35.359 14564 14564 D ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]: hardware acceleration is enabled, this = ViewRoot{5a1712c com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity,ident = 17}
+09-27 11:35:35.362 14564 14564 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = ViewRoot{5a1712c com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity,ident = 17}, this = DecorView@a27d632[InstrumentationActivityInvoker$EmptyActivity]
+09-27 11:35:35.370   315   315 I BufferQueue: [unnamed-315-3299](this:0x7644286800,id:3299,api:0,p:-1,c:-1) BufferQueue core=(315:/system/bin/surfaceflinger)
+09-27 11:35:35.370   315   315 I BufferQueueConsumer: [unnamed-315-3299](this:0x7644286800,id:3299,api:0,p:-1,c:315) connect(C): consumer=(315:/system/bin/surfaceflinger) controlledByApp=false
+09-27 11:35:35.370   315   315 I BufferQueueConsumer: [unnamed-315-2652](this:0x7644286800,id:3299,api:0,p:-1,c:315) setConsumerName: unnamed-315-2652
+09-27 11:35:35.370   315   315 I BufferQueueConsumer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity](this:0x7644286800,id:3299,api:0,p:-1,c:315) setConsumerName: com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+09-27 11:35:35.370   315   315 I BufferQueueProducer: [](this:0x7644286800,id:3299,api:0,p:-1,c:315) setMaxDequeuedBufferCount: maxDequeuedBuffers = 2
+09-27 11:35:35.370   315   315 I BufferQueueConsumer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity](this:0x7644286800,id:3299,api:0,p:-1,c:315) setDefaultBufferSize: width=1 height=1
+09-27 11:35:35.383   315   315 I BufferQueueConsumer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity](this:0x7644286800,id:3299,api:0,p:-1,c:315) setDefaultBufferSize: width=720 height=1280
+09-27 11:35:35.388 14564 14597 D OpenGLRenderer: CanvasContext() 0x780e75a000 initialize window=0x7812cbbe00, title=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+09-27 11:35:35.388 14564 14564 D Surface : Surface::allocateBuffers(this=0x7812cbbe00)
+09-27 11:35:35.388 14564 14597 D Surface : Surface::connect(this=0x7812cbbe00,api=1)
+09-27 11:35:35.388   315   998 I BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity](this:0x7644286800,id:3299,api:1,p:14564,c:315) connect(P): api=1 producer=(14564:com.example.dogglers) producerControlledByApp=true
+09-27 11:35:35.389 14564 14597 W libEGL  : [ANDROID_RECORDABLE] format: 1
+09-27 11:35:35.390   315   335 D GraphicBuffer: alloc, handle(0x764435f200) (w:720 h:1280 s:720 f:0x1 u:0x000900) err(0)
+09-27 11:35:35.391   315   335 D GraphicBuffer: alloc, handle(0x764435f740) (w:720 h:1280 s:720 f:0x1 u:0x000900) err(0)
+09-27 11:35:35.393   315   335 D GraphicBuffer: alloc, handle(0x764435fe00) (w:720 h:1280 s:720 f:0x1 u:0x000900) err(0)
+09-27 11:35:35.394 14564 14597 D mali_winsys: EGLint new_window_surface(egl_winsys_display*, void*, EGLSurface, EGLConfig, egl_winsys_surface**, egl_color_buffer_format*, EGLBoolean) returns 0x3000
+09-27 11:35:35.396 14564 14564 V InputMethodManager: onWindowFocus: null softInputMode=288 first=true flags=#1810100
+09-27 11:35:35.398  1343  1343 I GoogleInputMethodServic: GoogleInputMethodService.onFinishInput():3274
+09-27 11:35:35.399  1343  1343 I GoogleInputMethodServic: GoogleInputMethodService.updateDeviceLockedStatus():2166 repeatCheckTimes = 0, unlocked = true
+09-27 11:35:35.399  1343  1343 I GoogleInputMethodServic: GoogleInputMethodService.onStartInput():1957 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+09-27 11:35:35.399  1343  1343 I GoogleInputMethodServic: GoogleInputMethodService.shouldHideHeaderOnInitialState():4078 ShouldHideHeaderOnInitialState = false
+09-27 11:35:35.400  1343  1343 I GoogleInputMethodServic: GoogleInputMethodService.updateDeviceLockedStatus():2166 repeatCheckTimes = 2, unlocked = true
+09-27 11:35:35.404   315   335 I BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity](this:0x7644286800,id:3299,api:1,p:14564,c:315) new GraphicBuffer needed
+09-27 11:35:35.404   315   335 D GraphicBuffer: free, handle(0x764435fe00) (w:720 h:1280 s:720 f:0x1 u:0x000900)
+09-27 11:35:35.406   315   335 D GraphicBuffer: alloc, handle(0x764435fe00) (w:720 h:1280 s:720 f:0x1 u:0x000b00) err(0)
+09-27 11:35:35.407 14564 14597 D GraphicBuffer: register, handle(0x780e6a3f00) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.411   315   998 I BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity](this:0x7644286800,id:3299,api:1,p:14564,c:315) new GraphicBuffer needed
+09-27 11:35:35.411   315   998 D GraphicBuffer: free, handle(0x764435f740) (w:720 h:1280 s:720 f:0x1 u:0x000900)
+09-27 11:35:35.413   315   998 D GraphicBuffer: alloc, handle(0x764435f740) (w:720 h:1280 s:720 f:0x1 u:0x000b00) err(0)
+09-27 11:35:35.414 14564 14597 D GraphicBuffer: register, handle(0x780e72efc0) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.416  1576  1588 I SLService3: HAHA3 : com.example.dogglers
+09-27 11:35:35.417   315   315 D MALI    : eglCreateImageKHR:513: [Crop] 0 0 0 0  img[720 1280]
+09-27 11:35:35.426  1576  3486 I SLService3: HAHA3 : com.facebook.orca
+09-27 11:35:35.450  1078  1556 I BufferQueue: [unnamed-1078-192](this:0x7807529800,id:192,api:0,p:-1,c:-1) BufferQueue core=(1078:system_server)
+09-27 11:35:35.450  1078  1556 I BufferQueueConsumer: [unnamed-1078-192](this:0x7807529800,id:192,api:0,p:-1,c:1078) connect(C): consumer=(1078:system_server) controlledByApp=false
+09-27 11:35:35.450  1078  1556 I BufferQueueConsumer: [unnamed-1078-192](this:0x7807529800,id:192,api:0,p:-1,c:1078) setConsumerName: unnamed-1078-192
+09-27 11:35:35.450  1078  1556 I BufferQueueConsumer: [ScreenshotClient](this:0x7807529800,id:192,api:0,p:-1,c:1078) setConsumerName: ScreenshotClient
+09-27 11:35:35.451   315   315 D Surface : Surface::connect(this=0x7649148e00,api=1)
+09-27 11:35:35.452  1078  1556 I BufferQueueProducer: [ScreenshotClient](this:0x7807529800,id:192,api:1,p:315,c:1078) connect(P): api=1 producer=(315:/system/bin/surfaceflinger) producerControlledByApp=false
+09-27 11:35:35.452  1078  1556 I BufferQueueProducer: [ScreenshotClient](this:0x7807529800,id:192,api:1,p:315,c:1078) new GraphicBuffer needed
+09-27 11:35:35.453   315   380 D GraphicBuffer: alloc, handle(0x76443165c0) (w:432 h:768 s:432 f:0x1 u:0x000333) err(0)
+09-27 11:35:35.454  1078  1556 D GraphicBuffer: register, handle(0x780ce3ccc0) (w:432 h:768 s:432 f:0x1 u:0x000333)
+09-27 11:35:35.454   315   333 D GraphicBuffer: free, handle(0x76443165c0) (w:432 h:768 s:432 f:0x1 u:0x000333)
+09-27 11:35:35.454   315   315 D GraphicBuffer: register, handle(0x764c224840) (w:432 h:768 s:432 f:0x1 u:0x000333)
+09-27 11:35:35.457   315   315 D Surface : Surface::disconnect(this=0x7649148e00,api=1)
+09-27 11:35:35.458  1078  1556 I BufferQueueProducer: [ScreenshotClient](this:0x7807529800,id:192,api:1,p:-1,c:1078) disconnect(P): api 1
+09-27 11:35:35.458  1078  1556 I BufferQueueConsumer: [ScreenshotClient](this:0x7807529800,id:192,api:1,p:-1,c:1078) getReleasedBuffers: returning mask 0xffffffffffffffff
+09-27 11:35:35.458   315   348 D GraphicBuffer: unregister, handle(0x764c224840) (w:432 h:768 s:432 f:0x1 u:0x000333)
+09-27 11:35:35.462  1078  1556 I BufferQueueConsumer: [ScreenshotClient](this:0x7807529800,id:192,api:1,p:-1,c:-1) disconnect(C)
+09-27 11:35:35.462  1078  1556 D GraphicBuffer: unregister, handle(0x780ce3ccc0) (w:432 h:768 s:432 f:0x1 u:0x000333)
+09-27 11:35:35.462  1078  1556 I BufferQueue: [ScreenshotClient](this:0x7807529800,id:192,api:1,p:-1,c:-1) ~BufferQueueCore
+09-27 11:35:35.466 14564 14564 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@8c2be7 in: PAUSED
+09-27 11:35:35.466  2069  2085 I UpSlideHelper: UpSlide|toggleUpSlideViewInCamera isInCamera = false
+09-27 11:35:35.466 14564 14564 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@8c2be7
+09-27 11:35:35.469  1078  1303 I libPerfService: [perfNotifyAppState] foreground:com.bbk.launcher2, pid:28697
+09-27 11:35:35.469  1078  1303 I libPerfService: [switchSportsMode] enable:0
+09-27 11:35:35.473  1078  1214 D Sensors : activate handle =0, enable = 0
+09-27 11:35:35.473  1078  1214 D Sensors : handleToDriver handle(0)
+09-27 11:35:35.473  1078  1214 D Sensors : use new sensor index=2, mSensors[index](270dd800)
+09-27 11:35:35.473  1078  1214 D Sensors : support batch active
+09-27 11:35:35.473  1078  1214 D BATCH   : no batch control attr
+09-27 11:35:35.473  1078  1214 D Accel   : ACC enable: handle:0, en:0
+09-27 11:35:35.473  1078  1214 D Accel   : path:/sys/class/misc/m_acc_misc/accactive
+09-27 11:35:35.473  1078  1214 D Accel   : ACC enable(0) done
+09-27 11:35:35.480 14912 19989 I _V_SecureService2: onForegroundActivitiesChanged() pid = 28697, uid = 10039, foregroundActivities = true
+09-27 11:35:35.480  1078  1158 D VivoAppMonitor: onForegroundActivitiesChanged: pid=28697, uid=10039, foregroundActivities=true
+09-27 11:35:35.481  4414  4644 I _V_UsageAppManager: dealAppInfoList.getPid()=28697,dealAppInfoList.getUid()=10039,dealAppInfoList.getPkgName()=com.bbk.launcher2
+09-27 11:35:35.481  4414  4644 I _V_UsageAppManager: dealAppInfoList_mForgroundInfo_pid=28697,mForgroundInfo_pkgName=com.bbk.launcher2,mForgroundInfo_uid=10039,mBackgroundInfo_pid=14564,mBackgroundInfo_pkgName=com.example.dogglers,mBackgroundInfo_uid=10471
+09-27 11:35:35.481  2069  2069 I WhiteListHelper: UpSlide|isPkgHidedInVisitorMode >>> pkg = com.facebook.orca, mHideIconList = null
+09-27 11:35:35.481 14912 14990 I _V_SecureService3: runningNetworkLimitReminder ConnectivityManager not null， uid = 10039
+09-27 11:35:35.481  1078  1158 D VivoAppMonitor: mForgroundAppName=com.bbk.launcher2, mLastForgroundAppName = com.example.dogglers
+09-27 11:35:35.482  1078  1158 D touchscreenjni: chenpeng JNI called
+09-27 11:35:35.482  1078  1158 E touchscreen: Open /sys/touchscreen/app_name failed
+09-27 11:35:35.482  4414  4644 I _V_UsageAppManager: getversionCode=322
+09-27 11:35:35.482  4414  4644 I _V_UsageAppManager: getVersionName_name=3.2
+09-27 11:35:35.482  1576  1590 I SLService2: HAHA2 pid = 28697, uid = 10039, f = true
+09-27 11:35:35.483  1576  1652 I ProxCoverNoticeService: isHomeLauncher = true
+09-27 11:35:35.484 14564 14597 D Surface : Surface::disconnect(this=0x7812da9400,api=1)
+09-27 11:35:35.484   315   333 I BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity](this:0x764429d000,id:3298,api:1,p:-1,c:315) disconnect(P): api 1
+09-27 11:35:35.484   315   333 D GraphicBuffer: free, handle(0x76442ae2c0) (w:720 h:1280 s:720 f:0x1 u:0x000900)
+09-27 11:35:35.484  1576  1652 I ProxCoverNoticeService: top activity name = com.bbk.launcher2
+09-27 11:35:35.484  1576  1652 E ProxCoverNoticeService: monitor view is null, no need to update fullscreen
+09-27 11:35:35.485  1576  1652 I ProxCoverNoticeService: onForegroundActivitiesChanged, pid = 28697, uid = 10039, pkg = com.bbk.launcher2, foregroundActivities = true
+09-27 11:35:35.485   315   333 D GraphicBuffer: free, handle(0x7644317d00) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.485   315   333 I BufferQueueConsumer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity](this:0x764429d000,id:3298,api:1,p:-1,c:315) getReleasedBuffers: returning mask 0xffffffffffffffff
+09-27 11:35:35.485  2069  2069 I WhiteListHelper: UpSlide|isPkgHidedInVisitorMode >>> pkg = com.example.dogglers, mHideIconList = null
+09-27 11:35:35.487 14564 14597 D GraphicBuffer: unregister, handle(0x780e6a39c0) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.487 14564 14597 D GraphicBuffer: unregister, handle(0x780e6a4f80) (w:720 h:1280 s:720 f:0x1 u:0x000b00)
+09-27 11:35:35.488 14564 14597 D Surface : Surface::disconnect(this=0x7812da9400,api=1)
+09-27 11:35:35.488  2069  2069 D VivoTheme: load old package name start
+09-27 11:35:35.489  4585  4889 I FloatWindowManagerService:  pid = 28697, uid = 10039, fore = true ; now is : com.bbk.launcher2
+09-27 11:35:35.489   315   998 I BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity](this:0x764429d000,id:3298,api:1,p:-1,c:315) disconnect(P): api 1
+09-27 11:35:35.489  2069  2069 W ResourceType: Failure getting entry for 0x7f0d0000 (t=12 e=0) (error -75)
+09-27 11:35:35.490  2069  2069 W PackageManager: Failure retrieving resources for com.example.dogglers: Resource ID #0x7f0d0000
+09-27 11:35:35.490  2069  2069 W ResourceType: Failure getting entry for 0x7f0d0000 (t=12 e=0) (error -75)
+09-27 11:35:35.490  2069  2069 W PackageManager: Failure retrieving resources for com.example.dogglers: Resource ID #0x7f0d0000
+09-27 11:35:35.491 14912 14990 I _V_SecureService3: runningNetworkLimitReminder There is no active network info!
+09-27 11:35:35.492  1078  1158 V NetworkPolicy: updateRuleForRestrictBackgroundLocked(10039): isForeground=true, isBlacklisted=false, isWhitelisted=true, oldRule=1 (ALLOW_METERED), newRule=1 (ALLOW_METERED), newUidRules=1 (ALLOW_METERED), oldUidRules=1 (ALLOW_METERED)
+09-27 11:35:35.492  1078  1158 V NetworkPolicy: updateRulesForNonMeteredNetworksLocked(10039), isIdle: false, mRestrictPower: false, mDeviceIdleMode: false, isForeground=true, isWhitelisted=false, oldRule=0 (NONE), newRule=0 (NONE), newUidRules=1 (ALLOW_METERED), oldUidRules=1 (ALLOW_METERED)
+09-27 11:35:35.495  2069  2069 D VivoTheme: load old package name start
+09-27 11:35:35.495  1576  1652 I ProxCoverNoticeService: isKeyguardLocked = false, isDeviceLocked = false, isKeyguardSecure = true, isDeviceSecure = true, inKeyguardRestrictedInputMode = false
+09-27 11:35:35.496  1509  4651 I _V_ABE  : PowerEngineService enter the forgound
+09-27 11:35:35.496  1576  1576 D GameModeManager: cursor.count = 169
+09-27 11:35:35.496  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.496  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.496  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.plagueinc
+09-27 11:35:35.496  1576  1576 D GameModeManager: cursor.pkg = com.firsttouchgames.story
+09-27 11:35:35.496  1576  1576 D GameModeManager: cursor.pkg = com.jumpgames.rswrb
+09-27 11:35:35.496  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.plagueinc
+09-27 11:35:35.496  1576  1576 D GameModeManager: cursor.pkg = com.kiloo.subwaysurf
+09-27 11:35:35.496  1576  1576 D GameModeManager: cursor.pkg = com.mediocre.smashhit
+09-27 11:35:35.496  1576  1576 D GameModeManager: cursor.pkg = com.gameloft.android.ANMP.GloftA8HM
+09-27 11:35:35.496  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.496  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.496  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.plagueinc
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.outfit7.mytalkingtomfree
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.kiloo.subwaysurf
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.outfit7.mytalkingtomfree
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.kiloo.subwaysurf
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.plagueinc
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.kiloo.subwaysurf
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.plagueinc
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.plagueinc
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.youmusic.magictiles
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.skgames.trafficrider
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.gameloft.android.ANMP.GloftGOHM
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.roblox.client
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.chillingo.robberybobfree.android.row
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.gameloft.android.ANMP.GloftGGHM
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.eightballpool
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.wb.goog.mkx
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.eightballpool
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.glu.deerhunt2
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.gameloft.android.ANMP.GloftDOHM
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.497  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = uk.co.aifactory.chessfree
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.fingersoft.hcr2
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.youmusic.magictiles
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.youmusic.magictiles
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.youmusic.magictiles
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = net.froemling.bombsquad
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.eightballpool
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.miniclip.eightballpool
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.mobile.legends
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:35.498  1576  1576 D GameModeManager: cursor.pkg = com.bandagames.mpuzzle.gp
+09-27 11:35:35.498 14564 14591 I TestRunner: finished: horizontal_list_button_is_displayed(com.example.dogglers.ButtonTests)
